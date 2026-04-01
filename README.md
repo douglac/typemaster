@@ -1,6 +1,14 @@
 # Type Master
 
-Interactive typing tutor with 3D animated hands showing correct finger placement on a MacBook Pro US keyboard layout.
+**Programmers forgot how to type.**
+
+For years, coding meant short bursts — variable names, function calls, symbols. You could get away with 3-4 fingers and muscle memory for brackets and semicolons. Nobody noticed.
+
+Then the way we program changed. AI tools turned coding into writing. Prompts, context descriptions, architectural explanations, code reviews in natural language — suddenly the job is about producing paragraphs, not one-liners. And the fingers that were enough for `if (x !== null)` are painfully slow for "Refactor the authentication middleware to support multi-tenant JWT validation with role-based access control."
+
+The result: slower output, more typos, more fatigue.
+
+**Type Master exists to take you back to the fundamentals.** Learn (or re-learn) proper 10-finger touch typing with real-time 3D hand visualization, an interactive keyboard map, and speed benchmarks calibrated for developers.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
